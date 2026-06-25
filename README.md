@@ -66,8 +66,8 @@ C# Application for:
 
 ## 📫 Contact Me
 
-- 📧 Email: your-email@example.com
-- 💼 LinkedIn: Add Your LinkedIn Profile Here
+- 📧 Email: 
+- 💼 LinkedIn: 
 
 ---
 
