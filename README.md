@@ -64,14 +64,6 @@ C# Application for:
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IslamAhmed74&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IslamAhmed74&layout=compact)
-
----
-
 ## 📫 Contact Me
 
 - 📧 Email: your-email@example.com
