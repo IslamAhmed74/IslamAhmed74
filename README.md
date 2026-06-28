@@ -78,7 +78,7 @@ C# Application for:
 ## 📫 Contact Me
 
 - 📧 Email: [Gmail](eslamahmed231555@gmail.com)
-- 💼 LinkedIn: 
+- 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/eslam-ahmed-668613205?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
 ---
 
